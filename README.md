@@ -1,3 +1,15 @@
+##Description
+Tutorial from: https://levelup.gitconnected.com/using-the-indexeddb-api-with-react-and-hooks-4e63d83a5d1b
+Learning browser storage, so a client doesn't have to log in immediately. 
+
+See also: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+
+##-------------------------------------------------------------------
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
